@@ -2,6 +2,10 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00   5 L01 SCELE related
-ZCZC W00  10 L03 Github related
-ZCZC W00   5 L05 GSGS related
-ZCZC W00  30 L06 Reading OSC10
+ZCZC W00  20 L05 GSGS related: read about virtualization, github pages, virtualbox
+ZCZC W00  60 L06 Reading OSC10 + slides
+ZCZC W00  20 L08 Trying os from website copy.sh
+ZCZC W00  10 L11 Assignment #1
+ZCZC W00   5 L12 Assignment #2
+ZCZC W00   7 L13 Assignment #3
+ZCZC W00   3 L14 Assignment #4
