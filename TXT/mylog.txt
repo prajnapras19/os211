@@ -1,9 +1,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00   5 L01 SCELE related
+ZCZC W00   5 L01 SCELE related: register to course
 ZCZC W00  20 L05 GSGS related: read about virtualization, github pages, virtualbox
-ZCZC W00 140 L06 Reading OSC10 + slides
+ZCZC W00 150 L06 Reading OSC10 + slides
 ZCZC W00  20 L08 Trying os from website copy.sh
 ZCZC W00  10 L11 Assignment #1
 ZCZC W00   5 L12 Assignment #2
@@ -12,3 +12,5 @@ ZCZC W00   3 L14 Assignment #4
 ZCZC W00  60 L08 Trying setup ssh key to kawung, email itf, waiting for replies, get ssh privkey
 ZCZC W00  45 L05 GSGS related: searching about ssh
 ZCZC W00  84 L02 ZOOM: Tuesday 08.00 - 09.24
+ZCZC W00  20 L01 SCELE related: read pop quiz
+ZCZC W00  10 L05 GSGS related: searching related to popquiz
