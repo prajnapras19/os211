@@ -16,4 +16,5 @@ ZCZC W00  20 L01 SCELE related: read pop quiz
 ZCZC W00  10 L05 GSGS related: searching related to popquiz
 ZCZC W00  20 L08 Trying explore badak, copying data from badak:/extra/
 ZCZC W00  30 L05 GSGS related: read about scp, git revert
-ZCZC W00  60 L22 Youtube: watch crashcourse
+ZCZC W00  90 L22 Youtube: watch crashcourse, computer security, linux stuffs
+ZCZC W00 120 L08 Trying kawung to do some experimental code
