@@ -18,3 +18,16 @@ ZCZC W00  20 L08 Trying explore badak, copying data from badak:/extra/
 ZCZC W00  30 L05 GSGS related: read about scp, git revert
 ZCZC W00  90 L22 Youtube: watch crashcourse, computer security, linux stuffs
 ZCZC W00 120 L08 Trying kawung to do some experimental code
+ZCZC W01 100 L02 ZOOM related: class session 08.00-09.40
+ZCZC W01  90 L05 GSGS related: read about regex, tunneling, install git in virtualbox
+ZCZC W01  20 L06 Reading slides
+ZCZC W01  20 L08 Trying setup virtualbox
+ZCZC W01  60 L11 Assignment #1
+ZCZC W01  45 L12 Assignment #2
+ZCZC W01  30 L13 Assignment #3
+ZCZC W01  10 L14 Assignment #4
+ZCZC W01  20 L15 Assignment #5
+ZCZC W01  90 L16 Assignment #6
+ZCZC W01  30 L17 Assignment #7
+ZCZC W01  30 L18 Assignment #8
+ZCZC W01 120 L19 Assignment #9
