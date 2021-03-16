@@ -36,7 +36,7 @@ ZCZC W02 100 L02 ZOOM related: class session 08.00-09.40
 ZCZC W02  20 L05 GSGS related: read about gnupg, free up more space
 ZCZC W02  20 L06 Reading slides
 ZCZC W02  30 L08 Trying cleaning up unused things in my computer to get more free space
-ZCZC W02 150 L11 Assignment #1
+ZCZC W02 180 L11 Assignment #1
 ZCZC W02  20 L12 Assignment #2
 ZCZC W02  20 L13 Assignment #3
 ZCZC W02  10 L14 Assignment #4
@@ -46,3 +46,4 @@ ZCZC W02 100 L17 Assignment #7
 ZCZC W02   5 L18 Assignment #8
 ZCZC W02   5 L19 Assignment #9
 ZCZC W02  10 L20 Assignment #10
+ZCZC W02 240 L99 Learn cryptography in cryptohack and binary exploitation
