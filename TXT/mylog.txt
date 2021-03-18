@@ -47,3 +47,17 @@ ZCZC W02   5 L18 Assignment #8
 ZCZC W02   5 L19 Assignment #9
 ZCZC W02  10 L20 Assignment #10
 ZCZC W02 240 L99 Learn cryptography in cryptohack and binary exploitation
+ZCZC W03  10 L01 SCELE related: read pop quiz
+ZCZC W03 100 L02 ZOOM related: class session
+ZCZC W03  30 L05 GSGS related: read about diffie hellman key exchange, aes cryptosystem
+ZCZC W03  30 L06 Reading slides
+ZCZC W03  90 L11 Assignment #1
+ZCZC W03  60 L12 Assignment #2
+ZCZC W03   5 L13 Assignment #3
+ZCZC W03  15 L14 Assignment #4
+ZCZC W03 100 L15 Assignment #5
+ZCZC W03   5 L16 Assignment #6
+ZCZC W02  10 L17 Assignment #7
+ZCZC W03  10 L18 Assignment #8
+ZCZC W03   5 L19 Assignment #9
+ZCZC W03  60 L22 Youtube: watch about cryptography (diffie hellman, rsa, aes, math stuff), crashcourse computer science
