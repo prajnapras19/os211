@@ -67,6 +67,7 @@ ZCZC W04  20 L06 Reading slides
 ZCZC W04  45 L11 Assignment #1
 ZCZC W04  30 L12 Assignment #2
 ZCZC W04  50 L13 Assignment #3
+ZCZC W04 120 L14 Assignment #4
 ZCZC W04   5 L15 Assignment #5
 ZCZC W04  30 L16 Assignment #6
 ZCZC W04   5 L17 Assignment #7
