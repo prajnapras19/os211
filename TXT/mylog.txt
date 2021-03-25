@@ -61,3 +61,15 @@ ZCZC W02  10 L17 Assignment #7
 ZCZC W03  10 L18 Assignment #8
 ZCZC W03   5 L19 Assignment #9
 ZCZC W03  60 L22 Youtube: watch about cryptography (diffie hellman, rsa, aes, math stuff), crashcourse computer science
+ZCZC W04  10 L01 SCELE related: read pop quiz
+ZCZC W04 100 L02 ZOOM related: class session
+ZCZC W04  20 L06 Reading slides
+ZCZC W04  45 L11 Assignment #1
+ZCZC W04  30 L12 Assignment #2
+ZCZC W04  50 L13 Assignment #3
+ZCZC W04   5 L15 Assignment #5
+ZCZC W04  30 L16 Assignment #6
+ZCZC W04   5 L17 Assignment #7
+ZCZC W04   1 L18 Assignment #8
+ZCZC W04  40 L22 Youtube: learn about libc, heap, got, plt, format string
+ZCZC W05  30 L25 C-language: studying heap 
