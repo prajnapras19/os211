@@ -73,4 +73,15 @@ ZCZC W04  30 L16 Assignment #6
 ZCZC W04   5 L17 Assignment #7
 ZCZC W04   1 L18 Assignment #8
 ZCZC W04  40 L22 Youtube: learn about libc, heap, got, plt, format string
-ZCZC W05  30 L25 C-language: studying heap 
+ZCZC W04  30 L25 C-language: studying heap 
+ZCZC W05  10 L01 SCELE related: read pop quiz
+ZCZC W05 100 L02 ZOOM related: class session
+ZCZC W05  60 L03 GSGS related: gsgs about top, htop, ram, reverse
+ZCZC W05  20 L06 Reading slides
+ZCZC W05  60 L08 Trying something: practicing debugger and reversing
+ZCZC W05  60 L11 Assignment #1
+ZCZC W05  90 L12 Assignment #2
+ZCZC W05  15 L13 Assignment #3
+ZCZC W05  60 L14 Assignment #4
+ZCZC W05   5 L15 Assignment #5
+ZCZC W05   1 L16 Assignment #6
