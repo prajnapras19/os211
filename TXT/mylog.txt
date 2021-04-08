@@ -85,3 +85,14 @@ ZCZC W05  15 L13 Assignment #3
 ZCZC W05  60 L14 Assignment #4
 ZCZC W05   5 L15 Assignment #5
 ZCZC W05   1 L16 Assignment #6
+ZCZC W06  10 L01 SCELE related: read pop quiz
+ZCZC W06 100 L02 ZOOM related: class session
+ZCZC W06  20 L03 GSGS related: searching process, threads, synchronization
+ZCZC W06  20 L06 Reading slides
+ZCZC W06  30 L08 Trying something: Demo 06
+ZCZC W06  90 L11 Assignment #1
+ZCZC W06  20 L12 Assignment #2
+ZCZC W06 120 L13 Assignment #3
+ZCZC W06  15 L14 Assignment #4
+ZCZC W06   5 L15 Assignment #5
+ZCZC W06   1 L16 Assignment #6
