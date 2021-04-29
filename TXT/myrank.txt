@@ -17,3 +17,6 @@ ZCZC W05 rajasihombing
 ZCZC W05 radityarestan
 ZCZC W05 raflibangsawan
 ZCZC W05 rafimuhammad01
+ZCZC W06 rajasihombing
+ZCZC W06 raflibangsawan
+ZCZC W06 radityarestan
