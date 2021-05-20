@@ -118,3 +118,13 @@ ZCZC W08 300 L13 Assignment #3
 ZCZC W08   5 L14 Assignment #4
 ZCZC W08   5 L15 Assignment #5
 ZCZC W08   1 L16 Assignment #6
+ZCZC W09  20 L01 SCELE related: read popquiz
+ZCZC W09 120 L02 ZOOM related: class session
+ZCZC W09  20 L06 Reading slides
+ZCZC W09  15 L11 Assignment #1
+ZCZC W09  10 L12 Assignment #2
+ZCZC W09 100 L13 Assignment #3
+ZCZC W09 500 L14 Assignment #4
+ZCZC W09   1 L15 Assignment #5
+ZCZC W09   5 L16 Assignment #6
+ZCZC W09   1 L17 Assignment #7
