@@ -23,3 +23,6 @@ ZCZC W06 radityarestan
 ZCZC W07 radityarestan
 ZCZC W07 PWigunarta
 ZCZC W07 rajasihombing
+ZCZC W08 rajasihombing
+ZCZC W08 RafiMoreno
+ZCZC W08 RadhiansyaZ
