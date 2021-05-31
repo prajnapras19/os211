@@ -10,3 +10,4 @@ Operating Systems 2021-1
 * ### [Top 10 List of Week 07](./W07)
 * ### [Top 10 List of Week 08](./W08)
 * ### [Top 10 List of Week 09](./W09)
+* ### [Top 10 Tips for OS 212](./W10)
